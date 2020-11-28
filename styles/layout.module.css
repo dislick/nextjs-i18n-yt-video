@@ -1,0 +1,23 @@
+.header {
+  background-color: #c6ffc5;
+  padding: 32px;
+}
+
+.nav a {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.content {
+  background-color: #ffc5c5;
+  padding: 64px 32px;
+}
+
+.footer {
+  padding: 32px;
+  background-color: #dff7ff;
+}
+
+.footer ul {
+  margin-top: 16px;
+}
